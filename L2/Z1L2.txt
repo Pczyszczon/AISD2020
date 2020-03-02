@@ -1,0 +1,3 @@
+O(logn)
+
+https://pl.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
